@@ -1,0 +1,3 @@
+# ignorar los .env
+.env
+*.env
